@@ -48,6 +48,13 @@ Copyright &copy; 2026 Martin Sheeks
 #   { "Get started" = "index.md" },
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
+nav = [
+    { "Introduction" = "index.md" },
+    { "Locations" = [
+        { "The Silou Forest" = "locations/silou_forest.md" },
+        { "Eastern Woodlands" = "locations/eastern_woodlands.md" },
+    ] },
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -246,7 +253,7 @@ features = [
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
-    #"toc.integrate",
+    # "toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------
@@ -311,4 +318,10 @@ toggle.name = "Switch to light mode"
 alternate_style = true
 
 [project.markdown_extensions.zensical.extensions.preview]
-configurations = [{ targets.include = ["index.md", "locations/*"] }]
+configurations = [
+    { targets.include = [
+        "index.md",
+        "locations/*",
+        "includes/*",
+    ] },
+]
