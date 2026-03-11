@@ -27,7 +27,7 @@ site_author = "Martin Sheeks"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://localhost:8000"
+site_url = "https://mmsheeks.github.io/nocturnes-daybreaks/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -50,9 +50,21 @@ Copyright &copy; 2026 Martin Sheeks
 # ]
 nav = [
     { "Introduction" = "index.md" },
+    { "History" = [
+        { "Daybreaks" = "events/daybreaks.md" },
+        { "Nocturnes" = "events/nocturnes.md" },
+    ] },
     { "Locations" = [
-        { "The Silou Forest" = "locations/silou_forest.md" },
-        { "Eastern Woodlands" = "locations/eastern_woodlands.md" },
+        { "The Silou Forest" = "locations/silou-forest.md" },
+        { "Eastern Woodlands" = "locations/eastern-woodlands.md" },
+    ] },
+    { "Groups & Figures" = [
+        { "The Silou Tree" = "entities/silou-tree.md" },
+        { "The Grovetender" = "entities/the-grovetender.md" },
+        { "The High Sceptre" = "groups/the-high-sceptre.md" },
+    ] },
+    { "Asides" = [
+        { "The Heartwood Forest" = "asides/the-heartwood-forest.md" },
     ] },
 ]
 
@@ -321,7 +333,10 @@ alternate_style = true
 configurations = [
     { targets.include = [
         "index.md",
+        "asides/*",
+        "entities/*",
+        "events/*",
+        "groups/*",
         "locations/*",
-        "includes/*",
     ] },
 ]

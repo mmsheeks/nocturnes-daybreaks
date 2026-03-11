@@ -6,13 +6,13 @@ First, a quick note on what this collection of documents is. This is not a final
 
 ## Time in the Setting
 
-I wanted to include a note here on time. Throughout these documents you'll hear reference to "year X". These refer to time within the current known era of history. Nocturnes and Daybreaks is a project name, but they are also mechanical measures of time within the world I am creating. 
+I wanted to include a note here on time. Throughout these documents you'll hear reference to "year X". These refer to time within the current known era of history. Nocturnes and Daybreaks is a project name, but they are also mechanical measures of time within the world I am creating.
 
-**Daybreaks** describe times of abundance, growth, and prosperity. These are periods of time in which societies can form, develop technologies and traditions, create art, and flourish. 
+**Daybreaks** describe times of abundance, growth, and prosperity. These are periods of time in which societies can form, develop technologies and traditions, create art, and flourish.
 
 **Nocturnes** are times of catastrophe, be that swift, or slow. History may or may not survive a Nocturne, leading to new eras in the Daybreaks following them without knowledge of the old.
 
-The current historical era spans from the start of [The Second Daybreak](./events/second_daybreak.md), which was roughly 1200 years ago. For sake of flexibility, I'm not going to be exactly strict on dates. Expect things to be in the correct order, and roughly paced as intended, but some things may move around a bit. The important thing here is to keep in mind the world is much older than its inhabitants can recall.
+The current historical era spans from the start of [The Second Daybreak](./events/daybreaks.md#second-daybreak), which was roughly 1200 years ago. For sake of flexibility, I'm not going to be exactly strict on dates. Expect things to be in the correct order, and roughly paced as intended, but some things may move around a bit. The important thing here is to keep in mind the world is much older than its inhabitants can recall.
 
 ## A Quick Note on Mechanics
 
