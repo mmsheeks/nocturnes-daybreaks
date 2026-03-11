@@ -14,7 +14,7 @@ Deep within [The Eastern Woodlands](./eastern-woodlands.md) lies a forest distin
 
 === "DM Knowledge"
 
-    For as long as stories have been told, the name Silou has been spoken. At the heart of this forest the roots of the [Silou Tree](../entities/silou-tree.md) bury themselves deep within the ground. Planted before [The First Daybreak](../events/daybreaks.md#first-daybreak) by [The Grovetender](../entites/the-grovetender.md) to soak in the knowledge of every living thing upon the surface of this world. As time passed the Silou tree spread and multiplied and so was born The Silou Forest.
+    For as long as stories have been told, the name Silou has been spoken. At the heart of this forest the roots of the [Silou Tree](../entities/silou-tree.md) bury themselves deep within the ground. Planted before [The First Daybreak](../events/daybreaks.md#first-daybreak) by [The Grovetender](../entities/the-grovetender.md) to soak in the knowledge of every living thing upon the surface of this world. As time passed the Silou tree spread and multiplied and so was born The Silou Forest.
 
     As the neighboring mundane forests became more populated and spirits began to be drawn to these lands, The Silou Forest became a natural magnet and home for spirits that were not otherwise tied to location or person. Being a gift of The Grovetender, the Silou tree and its siblings are fundamentally a part of the spirit themselves. Though planted here within the mortal realm, these trees retain their connection to their extra-planar origin. Through this connection, they provide a suitable home for spirits that reside within the mortal realm, who in turn protect the forest and spread its name to the stories of the mortals and spirit alike.
 
