@@ -55,16 +55,17 @@ nav = [
         { "Nocturnes" = "events/nocturnes.md" },
     ] },
     { "Locations" = [
-        { "The Silou Forest" = "locations/silou-forest.md" },
+        { "Crescent Ridge Mountains" = "locations/crescent-ridge-mountains.md" },
         { "Eastern Woodlands" = "locations/eastern-woodlands.md" },
+        { "Hygrin" = "locations/hygrin.md" },
     ] },
     { "Groups & Figures" = [
-        { "The Silou Tree" = "entities/silou-tree.md" },
         { "The Grovetender" = "entities/the-grovetender.md" },
         { "The High Sceptre" = "groups/the-high-sceptre.md" },
+        { "Mira" = "groups/mira.md" },
     ] },
     { "Asides" = [
-        { "The Heartwood Forest" = "asides/the-heartwood-forest.md" },
+        { "Silou Forest Extras" = "asides/silou-forest.md" },
     ] },
 ]
 
@@ -332,13 +333,4 @@ toggle.name = "Switch to light mode"
 alternate_style = true
 
 [project.markdown_extensions.zensical.extensions.preview]
-configurations = [
-    { targets.include = [
-        "index.md",
-        "asides/*",
-        "entities/*",
-        "events/*",
-        "groups/*",
-        "locations/*",
-    ] },
-]
+configurations = [{ targets.include = ["index.md", "asides/*"] }]
