@@ -37,7 +37,37 @@ copyright = """
 Copyright &copy; 2026 Martin Sheeks
 """
 
-# Zensical supports both implicit navigation and explicitly defined navigation.
+nav = [
+    { "Introduction" = "index.md" },
+    { "History" = [
+        { "Daybreaks" = "events/daybreaks.md" },
+        { "Nocturnes" = "events/nocturnes.md" },
+    ] },
+    { "Regions" = [
+        { "Crescent Ridge Mountains" = [
+            "regions/crescent-ridge-mountains/index.md",
+            { "The Five Teeth" = "regions/crescent-ridge-mountains/the-five-teeth.md" },
+            { "The Jewels of The Ridge" = "regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
+            { "Northern Shelf" = "regions/crescent-ridge-mountains/northern-shelf.md" },
+            { "Southern Shelf" = "regions/crescent-ridge-mountains/southern-shelf.md" },
+        ] },
+        { "Eastern Woodlands" = [
+            "regions/eastern-woodlands/index.md",
+            { "Hygrin" = "regions/eastern-woodlands/hygrin.md" },
+            { "Silou Forest" = "regions/eastern-woodlands/silou-forest.md" },
+            { "North Shelf Forest" = "regions/eastern-woodlands/north-shelf-forest.md" },
+            { "Prairie Forest" = "regions/eastern-woodlands/prairie-forest.md" },
+        ] },
+    ] },
+    { "Groups & Figures" = [
+        { "The Grovetender" = "entities/the-grovetender.md" },
+        { "The High Sceptre" = "groups/the-high-sceptre.md" },
+        { "Mira" = "groups/mira.md" },
+    ] },
+    { "Appendix" = [
+        { "Silou Forest Extras" = "asides/silou-forest.md" },
+    ] },
+] # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
 # derive the navigation structure from the directory structure of your
 # "docs_dir". The definition below demonstrates how a navigation structure
@@ -48,26 +78,6 @@ Copyright &copy; 2026 Martin Sheeks
 #   { "Get started" = "index.md" },
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
-nav = [
-    { "Introduction" = "index.md" },
-    { "History" = [
-        { "Daybreaks" = "events/daybreaks.md" },
-        { "Nocturnes" = "events/nocturnes.md" },
-    ] },
-    { "Locations" = [
-        { "Crescent Ridge Mountains" = "locations/crescent-ridge-mountains.md" },
-        { "Eastern Woodlands" = "locations/eastern-woodlands.md" },
-        { "Hygrin" = "locations/hygrin.md" },
-    ] },
-    { "Groups & Figures" = [
-        { "The Grovetender" = "entities/the-grovetender.md" },
-        { "The High Sceptre" = "groups/the-high-sceptre.md" },
-        { "Mira" = "groups/mira.md" },
-    ] },
-    { "Asides" = [
-        { "Silou Forest Extras" = "asides/silou-forest.md" },
-    ] },
-]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
