@@ -46,6 +46,7 @@ nav = [
     { "Regions" = [
         { "Crescent Ridge Mountains" = [
             "regions/crescent-ridge-mountains/index.md",
+            { "Aketh Expanse" = "regions/crescent-ridge-mountains/aketh-expanse.md" },
             { "The Five Teeth" = "regions/crescent-ridge-mountains/the-five-teeth.md" },
             { "The Jewels of The Ridge" = "regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
             { "Northern Shelf" = "regions/crescent-ridge-mountains/northern-shelf.md" },
@@ -56,7 +57,7 @@ nav = [
             { "Hygrin" = "regions/eastern-woodlands/hygrin.md" },
             { "Silou Forest" = "regions/eastern-woodlands/silou-forest.md" },
             { "North Shelf Forest" = "regions/eastern-woodlands/north-shelf-forest.md" },
-            { "Prairie Forest" = "regions/eastern-woodlands/prairie-forest.md" },
+            { "Lowlands Forest" = "regions/eastern-woodlands/lowlands-forest.md" },
         ] },
     ] },
     { "Groups & Figures" = [
