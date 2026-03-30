@@ -30,6 +30,10 @@ The contents of this lore encyclopedia are presented as material to be read by p
 
     While keeping the important secret details to myself. Or you, if you go prying where you shouldn't. Sneaky.
 
+!!! warning "SPOILERS"
+
+    I'll use callouts of this color to indicate small spoilers that I can keep within a small blurb. The actual spoiler will be within the callout, and these will be collapsed by default. (this one isn't, so you can read about how they work.)
+
 !!! danger "SPOILERS"
 
     Where I need more space for content you shouldn't be reading, that content will be prefixed with this type of warning. Expect everything from here on in the page to be spoiler content. (not this time though, this is an example.)
