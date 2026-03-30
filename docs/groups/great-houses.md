@@ -6,7 +6,9 @@
 
 ## House Aketh
 
-Spirits of storm and lightning.
+The Great House of Aketh was devoted to the service of the spirits of storm and lightning. At its height the family held a defacto ruling position over the Aketh expanse, which was named in their honor. A lodge of House Aketh could be found in any city throughout the expanse, and was always well provisioned. With a reputation for being rigid in their doctrine, and unwavering in their dedication to craft, House Aketh was broadly recognized as the most powerful of the Great Houses.
+
+While House Aketh do in fact serve the spirits of storm and lightning, these are secondary spirits to the one they draw their power from. This little known fact is the source of their unmatched power in sorcery. All of the sorcerers of House Aketh are in fact bound to the deity Aoukethiir, The Unkind.
 
 ## House Barrow
 
