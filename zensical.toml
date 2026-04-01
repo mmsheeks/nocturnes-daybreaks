@@ -61,11 +61,19 @@ nav = [
         ] },
     ] },
     { "Groups & Figures" = [
-        { "The Grovetender" = "entities/the-grovetender.md" },
+        { "Great Houses" = "groups/great-houses.md" },
         { "The High Sceptre" = "groups/the-high-sceptre.md" },
         { "Mira" = "groups/mira.md" },
     ] },
+    { "Spirits & Deities" = [
+        { "Aoukethiir" = "entities/aoukethiir.md" },
+        { "The Bookkeeper" = "entities/the-bookkeeper.md" },
+        { "The Grovetender" = "entities/the-grovetender.md" },
+        { "The Herald" = "entities/the-herald.md" },
+    ] },
     { "Appendix" = [
+        { "Kaeroto Cultural Notes" = "asides/kaeroto-culture.md" },
+        { "Magical Materials" = "asides/magical-materials.md" },
         { "Silou Forest Extras" = "asides/silou-forest.md" },
     ] },
 ] # Zensical supports both implicit navigation and explicitly defined navigation.

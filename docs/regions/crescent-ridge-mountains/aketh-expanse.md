@@ -22,6 +22,12 @@ The Aketh Expanse is ringed on most sides by sharply peaked mountains having the
     
     In a last effort to protect and preserve their legacy, House Aketh set upon using the last of their strength to construct several shrines to their honor. These shrines largely leave out any mention of [Aoukethiir](../../entities/aoukethiir.md)'s summoning, or their partial roll in starting Nocturne No.2. The only shrine that makes mention of this is, in fact, located at the foot of the central peak that makes up [The Five Teeth](./the-five-teeth.md). This shrine, unlike the others, is left in damnation of the sorcerer Thume. While its construction is the same, the shrine to Thume makes no mention of House Aketh, as if in an attempt to distance themselves from the memory of the man who wrought the end of the world.
 
-## Current Settlements
+## Kaeroto Tribal Villages
 
-This section is a stub.
+Scattered along the northern rim of the expanse are a handful of villages that are home to the Kaeroto people. Adventurers will find themselves on some of the most well kept roadways traveling between these villages, even as they venture further up into the foothills of the northern barrier mountains.
+
+The Kaeroto people are known for their worship of Kaero, a spirit of storms who lives at the peak of Mount Kaerok. Many of the people who live here are either Clerics or Warlocks in service of Kaero.
+
+While a practical level of magical ability is a rite of passage for all Kaeroto people, not everyone in the villages make magic their main profession. In addition to the casters who inhabit these towns, many skilled carpenters and construction specialists also call Kaeroto land home.
+
+These skilled crafts people are responsible for maintaining a vast network of foot bridges and walking paths that web their way up into the high peaks of the northern barrier mountains. It is here where you will find the religious and spiritual home of the Kaeroto people, fastened to the side of Mount Kaerok high above the clouds.
