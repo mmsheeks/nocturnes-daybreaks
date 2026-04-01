@@ -47,10 +47,10 @@ nav = [
         { "Crescent Ridge Mountains" = [
             "regions/crescent-ridge-mountains/index.md",
             { "Aketh Expanse" = "regions/crescent-ridge-mountains/aketh-expanse.md" },
+            { "The Below" = "regions/crescent-ridge-mountains/below.md" },
             { "The Five Teeth" = "regions/crescent-ridge-mountains/the-five-teeth.md" },
-            { "The Jewels of The Ridge" = "regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
-            { "Northern Shelf" = "regions/crescent-ridge-mountains/northern-shelf.md" },
-            { "Southern Shelf" = "regions/crescent-ridge-mountains/southern-shelf.md" },
+            { "Jewels of The Ridge" = "regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
+            { "Northern & Southern Shelf" = "regions/crescent-ridge-mountains/the-shelves.md" },
         ] },
         { "Eastern Woodlands" = [
             "regions/eastern-woodlands/index.md",
