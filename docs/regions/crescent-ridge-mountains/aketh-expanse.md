@@ -1,14 +1,24 @@
 # Aketh Expanse
 
-The vast majority of the [Crescent Ridge Mountains](./index.md) are made up by the mountains of the Aketh Expanse. These mountains are old, and in some parts have been worn down into smoother curves you might mistake for lower hills. These areas are, however, only accessible to those who have already traveled several thousand feet above sea level and crested taller ridges to find them, making their apparent lower crests a bit deceiving.
+At the center of the [Crescent Ridge Mountains](./index.md) there is a vast area of smooth rolling mountain ranges that would almost let you believe they were only hills. These mountains are old, with roots that run far deeper than most would imagine.
 
-The Aketh Expanse is ringed on most sides by sharply peaked mountains having their own names and histories, with pockets of these taller mountains breaking through withing the center of the range as well. These taller peaks rise from 14,000 feet above sea level to 16,000 feet above sea level. Among the tallest of these peaks are the three central members of [The Five Teeth](./the-five-teeth.md), which soar higher still. Nestled amongst these taller mountains is a range that appears to be more of a rolling expanse of gradual but massive hills. These interior mountains, for they are still mountains, range from peaks of around 10,000 feet above sea level to valleys of 8,000 feet above sea level.
+Accessible only to those who have already traveled up far taller mountains and crested much higher ridges, the Aketh Expanse is a largely safe and peaceful expanse of deceivingly kind terrain.
 
 ## Geographical Features
 
+### The Barrier Mountains
+
+The Aketh Expanse is ringed on all sides by much steeper mountains that act as a barrier to most of the outside world. Pockets of these taller mountains break through within the expanse as well, giving a sense of the expanse being an interconnected network of vast and shallow valleys.
+
+These taller peaks rise from 14,000 feet to 16,000 feet above sea level. Among the tallest of these peaks are the three central members of [The Five Teeth](./the-five-teeth.md), which soar higher still.
+
+In addition to providing protection from outside forces, the barrier mountains also provide the Aketh Expanse with protection from most inclement weather, rendering the valleys of the expanse a year round moderate but comfortable environment.
+
+### Inner Aketh Expanse
+
 === "Player Knowledge"
 
-    These interior mountains are smoother in nature, making for easier passage. Traveling through the area one can find the remnants of small farming villages and some larger towns that lived throughout the inner range. These places are largely abandoned now, though some areas have been reclaimed and turned into small towns that act as rest stops along the major travel routes through the Crescent Ridge.
+    The interior mountains are smoother in nature, making for easier passage. Traveling through the area one can find the remnants of small farming villages and some larger towns that lived throughout the inner range. These places are largely abandoned now, though some areas have been reclaimed and turned into small towns that act as rest stops along the major travel routes through the Crescent Ridge.
 
     Following the old roads, one can travel across most of the Crescent Ridge largely undisturbed in this area. The mountainous countryside is dotted with small shrines, made of a pure black material that looks almost like a highly polished obsidian, but is clearly metallic to the touch. The writing on these shrines has long since been worn away, though most depict human forms. Some seem to be flying, others depict what seem to be specific historic moments, though what exactly they are has been lost to time.
 
