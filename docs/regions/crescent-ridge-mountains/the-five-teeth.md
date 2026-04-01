@@ -37,7 +37,7 @@ Where the name Azimuth originates from has largely been lost to time, though the
 
 Located in the range of mountains bordering the North of the [Aketh Expanse](./aketh-expanse.md), Kaerok is one of the more approachable peaks among the Five Teeth. This is not, however, due to its natural position.
 
-The Northern Tribes of the Aketh Expanse, an isolated group of magical practitioners and carpenters, maintain a sprawling network of footbridges that climb from peak to peak towards Kaerok. At the top of this network, anchored fast into the glassy stone of the Tooth itself, is the sacred shrine these tribes call their spiritual home.
+The Kaeroto people of the Aketh Expanse, an isolated group of magical practitioners and carpenters, maintain a sprawling network of footbridges that climb from peak to peak towards Kaerok. At the top of this network, anchored fast into the glassy stone of the Tooth itself, is the sacred shrine these tribes call their spiritual home.
 
 Devoted to a great spirit of thunder, Kaero, this shrine and the beliefs of these tribes also give name to this peak. Kaerok, or "Home of Kaero," is considered a sacred and protected land by those who make this area their home.
 

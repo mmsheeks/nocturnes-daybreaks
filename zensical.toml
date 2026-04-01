@@ -47,10 +47,10 @@ nav = [
         { "Crescent Ridge Mountains" = [
             "regions/crescent-ridge-mountains/index.md",
             { "Aketh Expanse" = "regions/crescent-ridge-mountains/aketh-expanse.md" },
+            { "The Below" = "regions/crescent-ridge-mountains/below.md" },
             { "The Five Teeth" = "regions/crescent-ridge-mountains/the-five-teeth.md" },
-            { "The Jewels of The Ridge" = "regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
-            { "Northern Shelf" = "regions/crescent-ridge-mountains/northern-shelf.md" },
-            { "Southern Shelf" = "regions/crescent-ridge-mountains/southern-shelf.md" },
+            { "Jewels of The Ridge" = "regions/crescent-ridge-mountains/jewels-of-the-ridge.md" },
+            { "Northern & Southern Shelf" = "regions/crescent-ridge-mountains/the-shelves.md" },
         ] },
         { "Eastern Woodlands" = [
             "regions/eastern-woodlands/index.md",
@@ -61,11 +61,19 @@ nav = [
         ] },
     ] },
     { "Groups & Figures" = [
-        { "The Grovetender" = "entities/the-grovetender.md" },
+        { "Great Houses" = "groups/great-houses.md" },
         { "The High Sceptre" = "groups/the-high-sceptre.md" },
         { "Mira" = "groups/mira.md" },
     ] },
+    { "Spirits & Deities" = [
+        { "Aoukethiir" = "entities/aoukethiir.md" },
+        { "The Bookkeeper" = "entities/the-bookkeeper.md" },
+        { "The Grovetender" = "entities/the-grovetender.md" },
+        { "The Herald" = "entities/the-herald.md" },
+    ] },
     { "Appendix" = [
+        { "Kaeroto Cultural Notes" = "asides/kaeroto-culture.md" },
+        { "Magical Materials" = "asides/magical-materials.md" },
         { "Silou Forest Extras" = "asides/silou-forest.md" },
     ] },
 ] # Zensical supports both implicit navigation and explicitly defined navigation.
