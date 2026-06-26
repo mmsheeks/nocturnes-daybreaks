@@ -8,14 +8,18 @@ The foothills to the West are protected by the [Eastern Woodlands](../eastern-wo
 
 ### Sub-regions
 
-- [Aketh Expanse Range](./aketh-range.md)
-- [The Northern Shelf](./northern-shelf.md)
-- [The Southern Shelf](./southern-shelf.md)
+- [Aketh Expanse](./aketh-expanse.md)
+- [The Below](./below.md)
+- [The Northern Shelf](./the-shelves.md#northern-shelf)
+- [The Southern Shelf](./the-shelves.md#southern-shelf)
 
 ### Cities & Settlements
 
+- [Glasstop Outpost](./the-five-teeth.md#glasstop-the-southernmost-tooth)
 - [Jewels of the Ridge](./jewels-of-the-ridge.md)
+- [Kaeroto Tribal Villages](./aketh-expanse.md#kaeroto-tribal-villages)
 
 ### Other Major Landmarks
 
+- [Barrier Mountains](./aketh-expanse.md#the-barrier-mountains)
 - [The Five Teeth](./the-five-teeth.md)
