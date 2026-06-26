@@ -8,5 +8,7 @@ lipsum fill this in with region highlights.
 
 ### Cities & Settlements
 
+- [The Golden Circle](./golden-circle.md)
+
 ### Other Major Landmarks
 

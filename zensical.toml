@@ -59,11 +59,16 @@ nav = [
             { "North Shelf Forest" = "regions/eastern-woodlands/north-shelf-forest.md" },
             { "Lowlands Forest" = "regions/eastern-woodlands/lowlands-forest.md" },
         ] },
+        { "Golden Plains" = [
+            "regions/golden-plains/index.md",
+            { "The Golden Circle" = "regions/golden-plains/golden-circle.md" },
+        ]},
     ] },
     { "Groups & Figures" = [
         { "Great Houses" = "groups/great-houses.md" },
         { "The High Sceptre" = "groups/the-high-sceptre.md" },
         { "Mira" = "groups/mira.md" },
+        { "Order of Gold" = "groups/order-of-gold.md" },
     ] },
     { "Spirits & Deities" = [
         { "Aoukethiir" = "entities/aoukethiir.md" },
